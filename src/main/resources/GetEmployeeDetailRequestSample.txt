@@ -1,0 +1,7 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <GetEmployeeDetailsRequest xmlns="http://farhanzaur.com/employees">
+            <id>1</id>
+        </GetEmployeeDetailsRequest>
+    </Body>
+</Envelope>
